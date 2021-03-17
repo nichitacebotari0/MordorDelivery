@@ -1,0 +1,5 @@
+# visual studio cache
+.vs/
+
+bin/
+obj/
